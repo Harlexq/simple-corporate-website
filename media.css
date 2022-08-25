@@ -1,0 +1,40 @@
+.navbar {
+    flex-direction: column;
+}
+
+#about .about-img {
+    flex-direction: column;
+    align-items: center;
+}
+
+#about .about-img img {
+    width: 500px;
+    height: 300px;
+}
+
+#about .about-img .about-text h2 {
+    text-align: center;
+    padding: 10px;
+}
+
+#service .row {
+    flex-direction: column;
+}
+
+#service .row .box {
+    width: 70%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+input {
+    width: 60%;
+}
+
+textarea {
+    width: 50%;
+}
+
+#gönder {
+    width: 40%;
+}
